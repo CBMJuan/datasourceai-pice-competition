@@ -1,12 +1,12 @@
-# DataSource AI
+# DataSource AI - Real Estate Price Forecast Competition
 
 ## Description:
 
 The objective of this competition is to create an automatic learning model that allows predicting the price of apartments for Argentina and Colombia given the main variables that describe these properties, such as: the area, the number of bathrooms, the location, etc.
 
-This was my submission which finished in #2 place out of 136 competitors
+This was my submission which finished in __#2__ place out of 136 competitors
 
-__Final Score:__ 0.248616099
+__Final Score:__ 0.24937973930946
 
 [Link to the competition](https://www.datasource.ai/en/users/1307/competitions/real-estate-price-forecast)
 
@@ -19,5 +19,6 @@ __Final Score:__ 0.248616099
 If your familiar with docker you can build the image and run `docker run -p 8888:8888 <image_id>` 
 
 Or you can just run `pip install -r requirements.txt` and run the notebook on your own.
+
 
 
